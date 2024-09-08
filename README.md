@@ -4,9 +4,10 @@
 	
 ### This program involves three main components:
 (Here Messages are passing as a fruit names)
-Producer: Generates messages and puts them into a message queue.
-Consumer: Takes messages from the queue and processes them.
-MessageQueue: Manages the queue where messages are stored temporarily.
+
+##### Producer: Generates messages and puts them into a message queue.
+##### Consumer: Takes messages from the queue and processes them.
+##### MessageQueue: Manages the queue where messages are stored temporarily.
 	
 ### Program Flow
 	 
