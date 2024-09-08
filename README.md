@@ -33,7 +33,8 @@ ASSIGNMENT:
 	THIS IS THE OUTPUT OF THE PROGRAM::
 	
 	
-	
+	![Image-1](https://github.com/user-attachments/assets/0b84b4f5-0e38-42bf-a501-25a8f4be620d)
+
 	
 	TEST CASES:
 	
