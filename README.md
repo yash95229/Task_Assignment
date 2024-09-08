@@ -28,22 +28,24 @@ After both threads complete, the main method prints the total count of successfu
 
 THIS IS THE OUTPUT OF THE PROGRAM::
 	
-	
-	![Image-1](https://github.com/user-attachments/assets/0b84b4f5-0e38-42bf-a501-25a8f4be620d)
+![Image-1](https://github.com/user-attachments/assets/05bb81e6-753a-48e0-9d20-20fd1eff4c6a)
+![Image-2](https://github.com/user-attachments/assets/ce795110-337e-4fc7-8e56-c4787d4a0ea7)
 
-	
 ### TEST CASES:
 	
 #### ProducerTest:
-IMAGE-3
+![Image-3](https://github.com/user-attachments/assets/fd1717f2-a77b-49ae-af17-b7f57f564bc1)
+
 testProduceMessages: Ensures that the Producer adds messages to the MessageQueue and that these messages can be consumed correctly.
 	
 #### ConsumerTest:
-IMAGE-4
+![Image-4](https://github.com/user-attachments/assets/b47ffb2e-9f94-4e6d-b9b5-bf3bc9d0b195)
+
 testConsumeMessages: Checks if the Consumer processes messages and updates the CounterState correctly.	
 
 #### MessageQueueTest:
-IMAGE-5
+![Image-5](https://github.com/user-attachments/assets/9f20e6a4-b327-4859-9376-fd1fd9fa1e62)
+
 testProduceAndConsume: Verifies that messages are correctly produced and consumed by testing with multiple threads to check synchronization.
 
 #### MessageTest:
